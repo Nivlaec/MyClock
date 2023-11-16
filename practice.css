@@ -1,0 +1,43 @@
+body{
+    background: #000;
+}
+.container{
+    text-align: center;
+    border: 5px solid black;
+    background-color: #333;
+    border-radius: 20px;
+}
+#timer{
+    font-size: 50px;
+    font-family: Consolas, Helvetica, sans-serif;
+    color: lightgreen;
+
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(22, 32, 14);
+    color: #fff;
+    border: 2px solid darkgoldenrod;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Consolas, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.clock{
+    text-align: center;
+}
+#myDate{
+    font-family: Consolas, Helvetica;
+    font-size: 40px;
+    color: darkorange;
+    background-color: #333;
+    border: 2px solid orange;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+#dte{
+    font-family: Consolas, Helvetica;
+    font-size: 40px;
+}
